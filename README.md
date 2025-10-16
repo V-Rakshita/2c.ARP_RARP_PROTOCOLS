@@ -42,12 +42,14 @@ while True:
             except KeyError: 
                 c.send("Not Found".encode()) 
 ```
-## OUPUT - ARP
+## OUTPUT - ARP
 ### Server
-<img width="821" height="43" alt="image" src="https://github.com/user-attachments/assets/7adfed02-2365-45cc-8b07-ff76d7bdfa1b" />
+<img width="629" height="100" alt="image" src="https://github.com/user-attachments/assets/aa495c2a-155d-44b6-82f7-c865ca65e4a5" />
+
 
 ### Client
-<img width="868" height="153" alt="image" src="https://github.com/user-attachments/assets/5858bc69-d79f-4a34-ac5e-252dc14edb1c" />
+<img width="741" height="305" alt="image" src="https://github.com/user-attachments/assets/12e2d9c0-de28-482f-8d93-c6bc647e164a" />
+
 
 ## PROGRAM - RARP
 ### Client:
@@ -77,10 +79,12 @@ while True:
 ```
 ## OUPUT -RARP
 ### Server
-<img width="841" height="102" alt="image" src="https://github.com/user-attachments/assets/ec5deea4-b903-4076-9f3e-06907e9e2fc5" />
+<img width="844" height="91" alt="image" src="https://github.com/user-attachments/assets/dce6c118-2208-4376-9aa5-61fce3580a47" />
+
 
 ### Client
-<img width="861" height="193" alt="image" src="https://github.com/user-attachments/assets/e4759cfd-5531-47b5-8bd6-83780cc56fd2" />
+<img width="861" height="297" alt="image" src="https://github.com/user-attachments/assets/565dfb04-4a7f-498c-843f-74c1704910b9" />
+
 
 
 ## RESULT
